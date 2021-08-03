@@ -1,0 +1,6 @@
+.vscode
+
+venv/
+
+*.jp2
+*.tif
